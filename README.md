@@ -1,10 +1,8 @@
-# EDA Project
+EDA
 
-![Untitled](https://user-images.githubusercontent.com/72846750/96084018-4dcf2a00-0ef9-11eb-88c8-2c7b0eeac19e.png)
-
-Summary
-===================
-Identifying variables that affect the success of a movie.
+Analyzing audience and Sales data of Korean Movie
+=================================================
+Various variables such as number of audience and total sales were studied in the project. Our goal was to identify variables that affect the success of a movie.
 
 Source:
 ---------------
@@ -29,19 +27,16 @@ Eliminated movies rated 'Adult'.
 'Total audience' was converted to thousands.
 Actors with the same name were removed from the list.
 
-About Data:
---------
-![Untitled](https://user-images.githubusercontent.com/72846750/96084018-4dcf2a00-0ef9-11eb-88c8-2c7b0eeac19e.png)
-
-
-Reference
----------
-[크집사 링크](http://naver.com)
-
-
-Issue
----------
-* Issue 1
-  * Issue 1-1
-    * Issue 1-1-1
-
+Built with
+----------
+* 김예지
+  * 
+   * Github : https://github.com/yeji0701
+* 방희란
+  * 
+  * Github : 
+ 
+Acknowledgements
+----------------
+- [KOBIS](http://www.kobis.or.kr/kobis/business/main/main.do)
+- [Naver movie](https://movie.naver.com/)
