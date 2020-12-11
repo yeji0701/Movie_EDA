@@ -34,7 +34,7 @@ Built with
    * Github : https://github.com/yeji0701
 * 방희란
   * 
-  * Github : 
+  * Github : https://github.com/Heeran-cloud
  
 Acknowledgements
 ----------------
