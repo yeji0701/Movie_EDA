@@ -4,24 +4,33 @@ Analyzing audience and Sales data of Korean Movie
 =================================================
 Various variables such as number of audience and total sales were studied in the project. Our goal was to identify variables that affect the success of a movie.
 
-Source:
----------------
-영화진흥위원회 (Korean Film Council)
-Naver Movie
+Prerequisites:
+* Jupyter Notebook
+* Python3
+* Anaconda
 
-Variables used:
+Getting Started
 ---------------
+##### Packages to install
+* matplotlib.pyplot
+* seaborn
+* warnings
+* font_manager (matplotlib) - for Korean font
+* pandas
+
+##### Dataset
 * genre
 * release date
 * total screen number
 * total audience
 * total sales
 * point
-* rating
+* rate
 * actors
 
-Data Cleansing:
----------------
+Data Exploration:
+-----------------
+I. Data Cleansing
 Korean movies from 2013~2020 were used.
 Eliminated movies rated 'Adult'.
 'Total audience' was converted to thousands.
