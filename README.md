@@ -20,7 +20,7 @@ Getting Started
 
 ##### Dataset
 * genre
-* release date
+* release date (month,year, season)
 * total screen number
 * total audience
 * total sales
