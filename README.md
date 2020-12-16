@@ -46,6 +46,10 @@ II. Data Visualization
 - Expected that, more movies released in a year would mean more number of screens and more audience.
 - But instead found that 'total sales' and 'total audience' increase and decrease in the same movement while number of screens and movie released do not.
 
+3. ![image]
+- Sorted only Top 10 Actors who have starred in the most movies during the period mentined above. Total credit count on this rank is between 22 and 12.
+- These 10 Actors have appeared on 30.5% of all the movies during the period.
+
 Built with
 ----------
 * 김예지
