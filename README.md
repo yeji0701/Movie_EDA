@@ -53,7 +53,7 @@ II. Data Visualization
 4. ![image](https://user-images.githubusercontent.com/72846750/102452122-258cb480-407d-11eb-9195-3fbdc482ee71.png)
 - Sorted only Top 10 Actors who have starred in the most movies during the period mentined above. Total credit count on Top 10 actors is 183.
 - Top 10 Actors have appeared on 34.14% of all the movies during the period.
-- Top 10 Actors performed remarkably in the Genre of Drama, Crime which counts respectively above 30.
+- Top 10 Actors performed remarkably in the Genre of Drama, Crime which counts above 30, respectively.
 
 Built with
 ----------
