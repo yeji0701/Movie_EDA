@@ -50,9 +50,10 @@ II. Data Visualization
 - Visualization of sales, audience, number of screens, and point for each top 10 movies to see the movement of the variables in a closer view
 - In the closer view, like '7번 방의 선물' more audience does not mean more sales. On the other hand, a similar movement of increase and decrease is observed between the sales and number of screens.
 
-4. ![image]
-- Sorted only Top 10 Actors who have starred in the most movies during the period mentined above. Total credit count on this rank is between 22 and 12.
-- These 10 Actors have appeared on 30.5% of all the movies during the period.
+4. ![image](https://user-images.githubusercontent.com/72846750/102452122-258cb480-407d-11eb-9195-3fbdc482ee71.png)
+- Sorted only Top 10 Actors who have starred in the most movies during the period mentined above. Total credit count on Top 10 actors is 183.
+- Top 10 Actors have appeared on 34.14% of all the movies during the period.
+- Top 10 Actors performed remarkably in the Genre of Drama, Crime which is counted above 30, respectively.
 
 Built with
 ----------
