@@ -56,7 +56,7 @@ II. Data Visualization
 - Top 10 Actors performed remarkably in the Genre of Drama, Crime which is counted above 30, respectively.
 
 5. ![image](https://user-images.githubusercontent.com/72846750/102687765-c2de1900-4234-11eb-99b0-ca578fe00796.png)
-- When Top 10 Actors appeared in the movie, the movie had better performance in the way of number of the Audience and the Screen.
+- When Top 10 Actors appeared in the movie, it had better performance in the way of number of the Audience and the Screen than the other movies.
 - Apparently it doesn't mean that it deserved better points than the other movies.
 
 Built with
