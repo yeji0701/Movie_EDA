@@ -69,7 +69,7 @@ Built with
   * Data gathering through API. Data cleansing process. Data visualizing on the overall movie data. (process 1, 2, and 3 of Data Visualization)
   * Github : https://github.com/yeji0701
 * 방희란
-  * 
+  * Data cleansing process. Data visualizing on the overall movie data. (process 4, 5 and 6 of Data Visualization)
   * Github : https://github.com/Heeran-cloud
  
 Acknowledgements
