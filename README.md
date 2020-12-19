@@ -59,6 +59,10 @@ II. Data Visualization
 - When Top 10 Actors appeared in the movie, it had better performance in the way of number of the Audience and the Screen than the other movies.
 - Apparently it doesn't mean that it deserved better points than the other movies.
 
+6. ![image](https://user-images.githubusercontent.com/72846750/102688864-23715400-423d-11eb-8bc7-d5be1849d31d.png)
+- As KOBIS has announced earlier, the Movie above 7,000K on Audience is so-called "Box-office bomb", which is so rare case in the movie industry. 
+  It turned out all 10 Actors made a huge success more than once during 2013-2020.
+
 Built with
 ----------
 * 김예지
