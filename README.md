@@ -60,7 +60,7 @@ II. Data Visualization
 - Apparently it doesn't mean that it deserved better points than the other movies.
 
 6. ![image](https://user-images.githubusercontent.com/72846750/102688864-23715400-423d-11eb-8bc7-d5be1849d31d.png)
-- As KOBIS has announced earlier, the Movie above 7,000K on Audience is so-called "Box-office bomb", which is so rare case in the movie industry. 
+- As KOBIS has announced earlier, the Movie above Audience 7,000K is so-called "Box-office bomb", which is so rare case for most of the actors. 
   It turned out all 10 Actors made a huge success more than once during 2013-2020.
 
 Built with
