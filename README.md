@@ -46,7 +46,7 @@ II. Data Visualization
 - Expected that, more movies released in a year would mean more number of screens and more audience.
 - But instead found that sales and audience increase and decrease in the same movement while number of screens and movie released do not.
 
-3. ![image](https://user-images.githubusercontent.com/28764376/102434868-f9f7d300-4058-11eb-9694-d62fb9c9d25f.png)
+3. ![image](https://user-images.githubusercontent.com/72846750/102710754-d2726600-42f7-11eb-9ba3-40b8558ce314.PNG)
 - Visualization of sales, audience, number of screens, and point for each top 10 movies to see the movement of the variables in a closer view
 - In the closer view, like '7번 방의 선물' more audience does not mean more sales. On the other hand, a similar movement of increase and decrease is observed between the sales and number of screens.
 
