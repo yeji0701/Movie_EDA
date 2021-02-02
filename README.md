@@ -4,19 +4,22 @@ Analyzing audience and Sales data of Korean Movie
 =================================================
 Various variables such as number of audience and total sales were studied in the project. Our goal was to identify variables that affect the success of a movie.
 
-Prerequisites:
-* Jupyter Notebook
-* Python3
-* Anaconda
-
 Getting Started
 ---------------
 ##### Packages to install
-* matplotlib.pyplot
-* seaborn
-* warnings
-* font_manager (matplotlib) - for Korean font
-* pandas
+- With the use of Python 3 in Jupyter Notebook, Anaconda
+```
+pip install pandas
+pip install seaborn
+pip install matplotlib
+pip install warnings
+from matplotlib import font_manager
+(windows korean font)
+f_path = "C:\Windows\Fonts\malgun.ttf"
+font_manager.FontProperties(fname=f_path).get_name()
+from matplotlib import rc
+rc('font', family='Malgun Gothic')
+```
 
 ##### Dataset
 - (536rowsx11columns)
