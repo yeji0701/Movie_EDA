@@ -13,24 +13,18 @@ pip install pandas
 pip install seaborn
 pip install matplotlib
 pip install warnings
-from matplotlib import font_manager
-(windows korean font)
-f_path = "C:\Windows\Fonts\malgun.ttf"
-font_manager.FontProperties(fname=f_path).get_name()
-from matplotlib import rc
-rc('font', family='Malgun Gothic')
 ```
 
 ##### Dataset
 - (536rowsx11columns)
-* genre
-* release date (month,year, season)
-* total screen number
-* total audience
-* total sales
-* point
-* rate
-* actors
+  * genre
+  * release date (month,year, season)
+  * total screen number
+  * total audience
+  * total sales
+  * point
+  * rate
+  * actors
 
 Data Exploration:
 -----------------
